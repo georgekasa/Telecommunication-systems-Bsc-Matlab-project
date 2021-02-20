@@ -1,0 +1,2 @@
+# Telecommunication-systems-Bsc-Matlab-project
+This project had 2 parts, the first part was to simulate how a transimitter which transmits 2 symbols and 4 afterwards this symbols will add noise and the receivers must classify the symbols the noise symbols. The second part is almost the same as the first, but now the transmitter sends a PICTURE with 4 symbols and the receiver but recreate again this picture
